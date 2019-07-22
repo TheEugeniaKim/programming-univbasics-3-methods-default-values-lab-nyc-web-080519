@@ -1,4 +1,4 @@
-# Meal Choice Lab
+lain # Meal Choice Lab
 
 ## Learning Goals
 
